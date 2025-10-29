@@ -89,4 +89,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravsumit07&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="souravsumit07" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravsumit07&theme=radical" alt="souravsumit07" /></p>
+<p><img align="center" src="https://git-hub-streak-stats.vercel.app/?user=souravsumit07&theme=radical" alt="souravsumit07" /></p>
