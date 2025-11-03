@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=souravsumit07&label=Profile%20views&color=0e75b6&style=flat" alt="souravsumit07" /> 
 </p>
 
-- 📫 How to reach me **41sumitdas@gmail.com**  
+- 📫 How to reach me **41sumitdas@gmail.com** 
+**https://x.com/070Sumit?t=xlSRBmFo1gK5MzKAU2uUEw&s=09* 
 - ⚡ Fun fact — **I think I am Funny 😅**
 
 ---
